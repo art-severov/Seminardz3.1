@@ -1,0 +1,15 @@
+/Users/tema/Desktop/Ucheba/seminardz3/zadacha23.1/bin/Debug/net6.0/zadacha23.1
+/Users/tema/Desktop/Ucheba/seminardz3/zadacha23.1/bin/Debug/net6.0/zadacha23.1.deps.json
+/Users/tema/Desktop/Ucheba/seminardz3/zadacha23.1/bin/Debug/net6.0/zadacha23.1.runtimeconfig.json
+/Users/tema/Desktop/Ucheba/seminardz3/zadacha23.1/bin/Debug/net6.0/zadacha23.1.dll
+/Users/tema/Desktop/Ucheba/seminardz3/zadacha23.1/bin/Debug/net6.0/zadacha23.1.pdb
+/Users/tema/Desktop/Ucheba/seminardz3/zadacha23.1/obj/Debug/net6.0/zadacha23.1.csproj.AssemblyReference.cache
+/Users/tema/Desktop/Ucheba/seminardz3/zadacha23.1/obj/Debug/net6.0/zadacha23.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tema/Desktop/Ucheba/seminardz3/zadacha23.1/obj/Debug/net6.0/zadacha23.1.AssemblyInfoInputs.cache
+/Users/tema/Desktop/Ucheba/seminardz3/zadacha23.1/obj/Debug/net6.0/zadacha23.1.AssemblyInfo.cs
+/Users/tema/Desktop/Ucheba/seminardz3/zadacha23.1/obj/Debug/net6.0/zadacha23.1.csproj.CoreCompileInputs.cache
+/Users/tema/Desktop/Ucheba/seminardz3/zadacha23.1/obj/Debug/net6.0/zadacha23.1.dll
+/Users/tema/Desktop/Ucheba/seminardz3/zadacha23.1/obj/Debug/net6.0/refint/zadacha23.1.dll
+/Users/tema/Desktop/Ucheba/seminardz3/zadacha23.1/obj/Debug/net6.0/zadacha23.1.pdb
+/Users/tema/Desktop/Ucheba/seminardz3/zadacha23.1/obj/Debug/net6.0/zadacha23.1.genruntimeconfig.cache
+/Users/tema/Desktop/Ucheba/seminardz3/zadacha23.1/obj/Debug/net6.0/ref/zadacha23.1.dll

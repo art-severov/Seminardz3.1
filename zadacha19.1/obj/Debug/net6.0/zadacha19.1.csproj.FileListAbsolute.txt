@@ -1,0 +1,15 @@
+/Users/tema/Desktop/Ucheba/seminardz3/zadacha19.1/bin/Debug/net6.0/zadacha19.1
+/Users/tema/Desktop/Ucheba/seminardz3/zadacha19.1/bin/Debug/net6.0/zadacha19.1.deps.json
+/Users/tema/Desktop/Ucheba/seminardz3/zadacha19.1/bin/Debug/net6.0/zadacha19.1.runtimeconfig.json
+/Users/tema/Desktop/Ucheba/seminardz3/zadacha19.1/bin/Debug/net6.0/zadacha19.1.dll
+/Users/tema/Desktop/Ucheba/seminardz3/zadacha19.1/bin/Debug/net6.0/zadacha19.1.pdb
+/Users/tema/Desktop/Ucheba/seminardz3/zadacha19.1/obj/Debug/net6.0/zadacha19.1.csproj.AssemblyReference.cache
+/Users/tema/Desktop/Ucheba/seminardz3/zadacha19.1/obj/Debug/net6.0/zadacha19.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tema/Desktop/Ucheba/seminardz3/zadacha19.1/obj/Debug/net6.0/zadacha19.1.AssemblyInfoInputs.cache
+/Users/tema/Desktop/Ucheba/seminardz3/zadacha19.1/obj/Debug/net6.0/zadacha19.1.AssemblyInfo.cs
+/Users/tema/Desktop/Ucheba/seminardz3/zadacha19.1/obj/Debug/net6.0/zadacha19.1.csproj.CoreCompileInputs.cache
+/Users/tema/Desktop/Ucheba/seminardz3/zadacha19.1/obj/Debug/net6.0/zadacha19.1.dll
+/Users/tema/Desktop/Ucheba/seminardz3/zadacha19.1/obj/Debug/net6.0/refint/zadacha19.1.dll
+/Users/tema/Desktop/Ucheba/seminardz3/zadacha19.1/obj/Debug/net6.0/zadacha19.1.pdb
+/Users/tema/Desktop/Ucheba/seminardz3/zadacha19.1/obj/Debug/net6.0/zadacha19.1.genruntimeconfig.cache
+/Users/tema/Desktop/Ucheba/seminardz3/zadacha19.1/obj/Debug/net6.0/ref/zadacha19.1.dll
